@@ -1,0 +1,14 @@
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\bin\Debug\net9.0\Lesson10算数运算符exercise.exe
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\bin\Debug\net9.0\Lesson10算数运算符exercise.deps.json
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\bin\Debug\net9.0\Lesson10算数运算符exercise.runtimeconfig.json
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\bin\Debug\net9.0\Lesson10算数运算符exercise.dll
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\bin\Debug\net9.0\Lesson10算数运算符exercise.pdb
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\obj\Debug\net9.0\Lesson10算数运算符exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\obj\Debug\net9.0\Lesson10算数运算符exercise.AssemblyInfoInputs.cache
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\obj\Debug\net9.0\Lesson10算数运算符exercise.AssemblyInfo.cs
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\obj\Debug\net9.0\Lesson10算数运算符exercise.csproj.CoreCompileInputs.cache
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\obj\Debug\net9.0\Lesson10算数运算符exercise.dll
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\obj\Debug\net9.0\refint\Lesson10算数运算符exercise.dll
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\obj\Debug\net9.0\Lesson10算数运算符exercise.pdb
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\obj\Debug\net9.0\Lesson10算数运算符exercise.genruntimeconfig.cache
+D:\Rider Projects\Lesson7类型转换\Lesson10算数运算符exercise\obj\Debug\net9.0\ref\Lesson10算数运算符exercise.dll

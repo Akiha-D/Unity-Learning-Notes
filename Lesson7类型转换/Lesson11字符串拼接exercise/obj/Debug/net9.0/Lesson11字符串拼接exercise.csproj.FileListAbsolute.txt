@@ -1,0 +1,14 @@
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\bin\Debug\net9.0\Lesson11字符串拼接exercise.exe
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\bin\Debug\net9.0\Lesson11字符串拼接exercise.deps.json
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\bin\Debug\net9.0\Lesson11字符串拼接exercise.runtimeconfig.json
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\bin\Debug\net9.0\Lesson11字符串拼接exercise.dll
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\bin\Debug\net9.0\Lesson11字符串拼接exercise.pdb
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\obj\Debug\net9.0\Lesson11字符串拼接exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\obj\Debug\net9.0\Lesson11字符串拼接exercise.AssemblyInfoInputs.cache
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\obj\Debug\net9.0\Lesson11字符串拼接exercise.AssemblyInfo.cs
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\obj\Debug\net9.0\Lesson11字符串拼接exercise.csproj.CoreCompileInputs.cache
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\obj\Debug\net9.0\Lesson11字符串拼接exercise.dll
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\obj\Debug\net9.0\refint\Lesson11字符串拼接exercise.dll
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\obj\Debug\net9.0\Lesson11字符串拼接exercise.pdb
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\obj\Debug\net9.0\Lesson11字符串拼接exercise.genruntimeconfig.cache
+D:\Rider Projects\Lesson7类型转换\Lesson11字符串拼接exercise\obj\Debug\net9.0\ref\Lesson11字符串拼接exercise.dll

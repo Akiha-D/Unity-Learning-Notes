@@ -1,0 +1,14 @@
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\bin\Debug\net9.0\Lesson3变量本质.exe
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\bin\Debug\net9.0\Lesson3变量本质.deps.json
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\bin\Debug\net9.0\Lesson3变量本质.runtimeconfig.json
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\bin\Debug\net9.0\Lesson3变量本质.dll
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\bin\Debug\net9.0\Lesson3变量本质.pdb
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\obj\Debug\net9.0\Lesson3变量本质.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\obj\Debug\net9.0\Lesson3变量本质.AssemblyInfoInputs.cache
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\obj\Debug\net9.0\Lesson3变量本质.AssemblyInfo.cs
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\obj\Debug\net9.0\Lesson3变量本质.csproj.CoreCompileInputs.cache
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\obj\Debug\net9.0\Lesson3变量本质.dll
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\obj\Debug\net9.0\refint\Lesson3变量本质.dll
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\obj\Debug\net9.0\Lesson3变量本质.pdb
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\obj\Debug\net9.0\Lesson3变量本质.genruntimeconfig.cache
+D:\Rider Projects\Lesson3变量本质\Lesson3变量本质\obj\Debug\net9.0\ref\Lesson3变量本质.dll

@@ -1,0 +1,14 @@
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\bin\Debug\net9.0\Lesson9异常捕获.exe
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\bin\Debug\net9.0\Lesson9异常捕获.deps.json
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\bin\Debug\net9.0\Lesson9异常捕获.runtimeconfig.json
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\bin\Debug\net9.0\Lesson9异常捕获.dll
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\bin\Debug\net9.0\Lesson9异常捕获.pdb
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\obj\Debug\net9.0\Lesson9异常捕获.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\obj\Debug\net9.0\Lesson9异常捕获.AssemblyInfoInputs.cache
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\obj\Debug\net9.0\Lesson9异常捕获.AssemblyInfo.cs
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\obj\Debug\net9.0\Lesson9异常捕获.csproj.CoreCompileInputs.cache
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\obj\Debug\net9.0\Lesson9异常捕获.dll
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\obj\Debug\net9.0\refint\Lesson9异常捕获.dll
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\obj\Debug\net9.0\Lesson9异常捕获.pdb
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\obj\Debug\net9.0\Lesson9异常捕获.genruntimeconfig.cache
+D:\Rider Projects\Lesson7类型转换\Lesson9异常捕获\obj\Debug\net9.0\ref\Lesson9异常捕获.dll

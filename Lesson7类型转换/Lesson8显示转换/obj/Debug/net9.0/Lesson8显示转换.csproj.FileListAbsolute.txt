@@ -1,0 +1,14 @@
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\bin\Debug\net9.0\Lesson8显示转换.exe
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\bin\Debug\net9.0\Lesson8显示转换.deps.json
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\bin\Debug\net9.0\Lesson8显示转换.runtimeconfig.json
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\bin\Debug\net9.0\Lesson8显示转换.dll
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\bin\Debug\net9.0\Lesson8显示转换.pdb
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\obj\Debug\net9.0\Lesson8显示转换.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\obj\Debug\net9.0\Lesson8显示转换.AssemblyInfoInputs.cache
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\obj\Debug\net9.0\Lesson8显示转换.AssemblyInfo.cs
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\obj\Debug\net9.0\Lesson8显示转换.csproj.CoreCompileInputs.cache
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\obj\Debug\net9.0\Lesson8显示转换.dll
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\obj\Debug\net9.0\refint\Lesson8显示转换.dll
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\obj\Debug\net9.0\Lesson8显示转换.pdb
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\obj\Debug\net9.0\Lesson8显示转换.genruntimeconfig.cache
+D:\Rider Projects\Lesson7类型转换\Lesson8显示转换\obj\Debug\net9.0\ref\Lesson8显示转换.dll

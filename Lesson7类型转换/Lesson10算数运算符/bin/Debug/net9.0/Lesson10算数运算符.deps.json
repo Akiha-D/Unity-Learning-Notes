@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lesson10算数运算符/1.0.0": {
+        "runtime": {
+          "Lesson10算数运算符.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson10算数运算符/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

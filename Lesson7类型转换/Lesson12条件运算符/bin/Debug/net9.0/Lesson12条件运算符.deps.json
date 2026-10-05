@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lesson12条件运算符/1.0.0": {
+        "runtime": {
+          "Lesson12条件运算符.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson12条件运算符/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

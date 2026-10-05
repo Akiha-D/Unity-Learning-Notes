@@ -1,0 +1,14 @@
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\bin\Debug\net9.0\Lexxon12exercies.exe
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\bin\Debug\net9.0\Lexxon12exercies.deps.json
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\bin\Debug\net9.0\Lexxon12exercies.runtimeconfig.json
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\bin\Debug\net9.0\Lexxon12exercies.dll
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\bin\Debug\net9.0\Lexxon12exercies.pdb
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\Lexxon12exercies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\Lexxon12exercies.AssemblyInfoInputs.cache
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\Lexxon12exercies.AssemblyInfo.cs
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\Lexxon12exercies.csproj.CoreCompileInputs.cache
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\Lexxon12exercies.dll
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\refint\Lexxon12exercies.dll
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\Lexxon12exercies.pdb
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\Lexxon12exercies.genruntimeconfig.cache
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\ref\Lexxon12exercies.dll

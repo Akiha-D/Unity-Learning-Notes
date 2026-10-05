@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lesson3变量本质/1.0.0": {
+        "runtime": {
+          "Lesson3变量本质.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson3变量本质/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

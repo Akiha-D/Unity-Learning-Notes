@@ -1,0 +1,14 @@
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\bin\Debug\net9.0\Lesson6转义字符.exe
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\bin\Debug\net9.0\Lesson6转义字符.deps.json
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\bin\Debug\net9.0\Lesson6转义字符.runtimeconfig.json
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\bin\Debug\net9.0\Lesson6转义字符.dll
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\bin\Debug\net9.0\Lesson6转义字符.pdb
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\obj\Debug\net9.0\Lesson6转义字符.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\obj\Debug\net9.0\Lesson6转义字符.AssemblyInfoInputs.cache
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\obj\Debug\net9.0\Lesson6转义字符.AssemblyInfo.cs
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\obj\Debug\net9.0\Lesson6转义字符.csproj.CoreCompileInputs.cache
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\obj\Debug\net9.0\Lesson6转义字符.dll
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\obj\Debug\net9.0\refint\Lesson6转义字符.dll
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\obj\Debug\net9.0\Lesson6转义字符.pdb
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\obj\Debug\net9.0\Lesson6转义字符.genruntimeconfig.cache
+D:\Rider Projects\Lesson6转义字符\Lesson6转义字符\obj\Debug\net9.0\ref\Lesson6转义字符.dll
