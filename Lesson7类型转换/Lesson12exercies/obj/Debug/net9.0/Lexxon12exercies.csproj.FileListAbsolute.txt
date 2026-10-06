@@ -12,3 +12,4 @@ D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\refint\L
 D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\Lexxon12exercies.pdb
 D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\Lexxon12exercies.genruntimeconfig.cache
 D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\ref\Lexxon12exercies.dll
+D:\Rider Projects\Lesson7类型转换\Lexxon12exercies\obj\Debug\net9.0\Lexxon12exercies.sourcelink.json

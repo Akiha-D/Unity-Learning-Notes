@@ -14,13 +14,23 @@ namespace Lesson12exercies
             Console.WriteLine(10 >= 20);
 
 
-            int gameover;
+            bool gameover,startGame;
             int a = 10;
-            int c = 20;       
+            int c = 15;
+
+            gameover = a > (c - 5);
+            
+            startGame = gameover == ( c > (a +5));
+            
+            Console.WriteLine("startGame = " + startGame);
+            
+            
             
 
             
-            Console.WriteLine(c);
+            
+            
+            
         }
     }
 }

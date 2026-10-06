@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rider Projects\\Lesson7类型转换\\Lexxon12exercies\\Lexxon12exercies.csproj",
-      "projectName": "Lexxon12exercies",
-      "projectPath": "D:\\Rider Projects\\Lesson7类型转换\\Lexxon12exercies\\Lexxon12exercies.csproj",
+      "projectUniqueName": "D:\\Rider Projects\\Lesson7类型转换\\Lesson12exercies\\Lesson12exercies.csproj",
+      "projectName": "Lesson12exercies",
+      "projectPath": "D:\\Rider Projects\\Lesson7类型转换\\Lesson12exercies\\Lesson12exercies.csproj",
       "packagesPath": "C:\\Users\\Deng\\.nuget\\packages\\",
-      "outputPath": "D:\\Rider Projects\\Lesson7类型转换\\Lexxon12exercies\\obj\\",
+      "outputPath": "D:\\Rider Projects\\Lesson7类型转换\\Lesson12exercies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
