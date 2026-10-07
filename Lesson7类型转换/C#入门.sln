@@ -20,9 +20,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson11字符串拼接exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson12条件运算符", "Lesson12条件运算符\Lesson12条件运算符.csproj", "{8A68F237-FD13-4F19-8988-2EBA3DCA568F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson12exercies", "Lesson12exercies\Lesson12exercies.csproj", "{5BF6B16D-5478-4842-A223-80A224EA9640}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson12条件运算符exercies", "Lesson12条件运算符exercies\Lesson12条件运算符exercies.csproj", "{5BF6B16D-5478-4842-A223-80A224EA9640}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13逻辑运算符", "Lesson13逻辑运算符\Lesson13逻辑运算符.csproj", "{5F908449-2980-4F42-BF45-185C5C8651FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13逻辑运算符exercies", "Lesson13逻辑运算符exercies\Lesson13逻辑运算符exercies.csproj", "{19F2ADBE-183F-4F11-879F-1FA3168DD3DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson14位运算符", "Lesson14位运算符\Lesson14位运算符.csproj", "{0E5899BA-5927-417F-8E4D-74DC2AA8CC28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson14位运算符exercies", "Lesson14位运算符exercies\Lesson14位运算符exercies.csproj", "{29E8B6E3-A40B-4B17-A0D1-2581D9599BB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -78,5 +84,17 @@ Global
 		{5F908449-2980-4F42-BF45-185C5C8651FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F908449-2980-4F42-BF45-185C5C8651FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F908449-2980-4F42-BF45-185C5C8651FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F2ADBE-183F-4F11-879F-1FA3168DD3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F2ADBE-183F-4F11-879F-1FA3168DD3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F2ADBE-183F-4F11-879F-1FA3168DD3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F2ADBE-183F-4F11-879F-1FA3168DD3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5899BA-5927-417F-8E4D-74DC2AA8CC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5899BA-5927-417F-8E4D-74DC2AA8CC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5899BA-5927-417F-8E4D-74DC2AA8CC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5899BA-5927-417F-8E4D-74DC2AA8CC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E8B6E3-A40B-4B17-A0D1-2581D9599BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E8B6E3-A40B-4B17-A0D1-2581D9599BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E8B6E3-A40B-4B17-A0D1-2581D9599BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E8B6E3-A40B-4B17-A0D1-2581D9599BB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
