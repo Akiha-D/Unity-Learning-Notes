@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson10算数运算符exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afbd7131ab970e6c949d66d1993e78fa223603d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67a9bec6b315f07d6adb89b58f1bcceb2bb21324")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson10算数运算符exercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson10算数运算符exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

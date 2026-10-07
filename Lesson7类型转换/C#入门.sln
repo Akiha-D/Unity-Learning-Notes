@@ -30,6 +30,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson14位运算符", "Les
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson14位运算符exercies", "Lesson14位运算符exercies\Lesson14位运算符exercies.csproj", "{29E8B6E3-A40B-4B17-A0D1-2581D9599BB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson15三目运算符", "Lesson15三目运算符\Lesson15三目运算符.csproj", "{DFCEC99D-1870-4C33-9133-5327ECA5D8D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson15三目运算符exercise", "Lesson15三目运算符exercise\Lesson15三目运算符exercise.csproj", "{4FD34038-48C0-4F53-8232-C3BA6ACF1FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson16条件分支语句_if", "Lesson16条件分支语句_if\Lesson16条件分支语句_if.csproj", "{1BE99CAE-A4AC-4B18-9C52-B627BCF85D65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +102,17 @@ Global
 		{29E8B6E3-A40B-4B17-A0D1-2581D9599BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29E8B6E3-A40B-4B17-A0D1-2581D9599BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29E8B6E3-A40B-4B17-A0D1-2581D9599BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCEC99D-1870-4C33-9133-5327ECA5D8D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCEC99D-1870-4C33-9133-5327ECA5D8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCEC99D-1870-4C33-9133-5327ECA5D8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCEC99D-1870-4C33-9133-5327ECA5D8D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD34038-48C0-4F53-8232-C3BA6ACF1FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD34038-48C0-4F53-8232-C3BA6ACF1FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD34038-48C0-4F53-8232-C3BA6ACF1FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD34038-48C0-4F53-8232-C3BA6ACF1FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE99CAE-A4AC-4B18-9C52-B627BCF85D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE99CAE-A4AC-4B18-9C52-B627BCF85D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE99CAE-A4AC-4B18-9C52-B627BCF85D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE99CAE-A4AC-4B18-9C52-B627BCF85D65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
