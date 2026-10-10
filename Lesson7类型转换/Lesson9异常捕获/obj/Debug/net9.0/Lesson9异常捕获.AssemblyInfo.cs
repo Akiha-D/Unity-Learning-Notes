@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson9异常捕获")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4fba6c5234f0c0f26559adbaf748970445a872d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c376760663eece0036459cc89b10521b4c10098a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson9异常捕获")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson9异常捕获")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
