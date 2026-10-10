@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson8显示转换习题")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b5be8afb6fa9d66e1824d0f4743a2ec6b0b8657")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4fba6c5234f0c0f26559adbaf748970445a872d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson8显示转换习题")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson8显示转换习题")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
