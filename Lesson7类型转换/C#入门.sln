@@ -44,6 +44,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson17条件分支语句_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson18循环语句 while", "Lesson18循环语句 while\Lesson18循环语句 while.csproj", "{89544484-B205-4EDE-BE2F-E0790BCABAEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson20循环语句for", "Lesson20循环语句for\Lesson20循环语句for.csproj", "{2DF5FA67-F95F-44E2-904D-A484B8302B1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +140,9 @@ Global
 		{89544484-B205-4EDE-BE2F-E0790BCABAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89544484-B205-4EDE-BE2F-E0790BCABAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89544484-B205-4EDE-BE2F-E0790BCABAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF5FA67-F95F-44E2-904D-A484B8302B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF5FA67-F95F-44E2-904D-A484B8302B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF5FA67-F95F-44E2-904D-A484B8302B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF5FA67-F95F-44E2-904D-A484B8302B1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
