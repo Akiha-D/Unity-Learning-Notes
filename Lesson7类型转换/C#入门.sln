@@ -42,9 +42,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson17条件分支语句_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson17条件分支语句_switch exercise", "Lesson17条件分支语句_switch exercise\Lesson17条件分支语句_switch exercise.csproj", "{B2B10528-7D8B-4AF2-B60A-77A8636FD6D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson18循环语句 while", "Lesson18循环语句 while\Lesson18循环语句 while.csproj", "{89544484-B205-4EDE-BE2F-E0790BCABAEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson18循环语句_while", "Lesson18循环语句_while\Lesson18循环语句_while.csproj", "{89544484-B205-4EDE-BE2F-E0790BCABAEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson20循环语句for", "Lesson20循环语句for\Lesson20循环语句for.csproj", "{2DF5FA67-F95F-44E2-904D-A484B8302B1F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson20循环语句_for", "Lesson20循环语句_for\Lesson20循环语句_for.csproj", "{2DF5FA67-F95F-44E2-904D-A484B8302B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson20循环语句_for exercise", "Lesson20循环语句_for exercise\Lesson20循环语句_for exercise.csproj", "{8B1BBC6E-82BC-4F8C-AD2C-11F39931D60C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -144,5 +146,9 @@ Global
 		{2DF5FA67-F95F-44E2-904D-A484B8302B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DF5FA67-F95F-44E2-904D-A484B8302B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DF5FA67-F95F-44E2-904D-A484B8302B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1BBC6E-82BC-4F8C-AD2C-11F39931D60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1BBC6E-82BC-4F8C-AD2C-11F39931D60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1BBC6E-82BC-4F8C-AD2C-11F39931D60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1BBC6E-82BC-4F8C-AD2C-11F39931D60C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

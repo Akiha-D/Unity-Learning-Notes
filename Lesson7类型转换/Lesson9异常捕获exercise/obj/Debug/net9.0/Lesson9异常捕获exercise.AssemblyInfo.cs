@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson9异常捕获exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e38d3a1773d27a9237abf13f88abe14022687a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+483f2ff402f2c42cfc46485c41816261e2a7cba5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson9异常捕获exercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson9异常捕获exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
